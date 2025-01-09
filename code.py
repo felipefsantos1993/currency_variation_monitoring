@@ -4,7 +4,7 @@ import pandas as pd
 url = "https://economia.awesomeapi.com.br/json/last/USD-BRL"
 headers = {
     "accept": "application/json",
-    "Authorization": "Your API Bearer Token"
+    "Authorization": "Bearer <<YOUR_API_BEARER_TOKEN>>"
 }
 response = requests.get(url, headers=headers)
 data = response.json
