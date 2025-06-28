@@ -20,3 +20,20 @@ Uma solução de coleta, armazenamento e visualização de taxas de câmbio de m
  #
  #
  # currency_variation_monitoring
+
+ ![alt text](cover.png)
+
+## Overview
+A solution for collecting, storing, and visualizing exchange rates for international currencies. The project automates data extraction from a public API, organizes the information into historical CSV files, and provides dynamic dashboards in Power BI to monitor and analyze currency trends.
+## Objectives
+- Collecting exchange rate data via API.
+- Perform data processing to make it available in file format.
+- Data integration with Power BI to monitor variations between different currencies.
+## Technologies
+ - Python 3.0 or higher
+ - https://awesomeapi.com.br/ (100.000 requests free)
+ - Power BI
+ ## Architecture
+ ![alt text](architecture.png)
+ ## Documentation Used
+ https://pypi.org/project/requests/
