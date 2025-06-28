@@ -1,5 +1,3 @@
-# monitoramento_de_variação_de_moeda
-
 ![alt text](cover.png)
 
 ## Visão Geral
@@ -19,8 +17,6 @@ Uma solução de coleta, armazenamento e visualização de taxas de câmbio de m
  #
  #
  #
- # currency_variation_monitoring
-
  ![alt text](cover.png)
 
 ## Overview
